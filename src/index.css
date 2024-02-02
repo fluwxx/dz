@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(https://sun9-9.userapi.com/impf/c848616/v848616400/86a52/wadBRXmbF94.jpg?size=604x407&quality=96&sign=b3c6f0cf40bfa8e3f5e846e8d191c74c&type=album);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 code {
